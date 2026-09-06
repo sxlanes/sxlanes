@@ -1,4 +1,4 @@
-# Nico Solanes
+# Nicolás López Solanes
 
 **Full-Stack Software Engineer · Applied Mathematics & Computer Science (MIASHS)**  
 *Université de Bordeaux · Erasmus Exchange at Lodz University of Technology (2026–2027)*
