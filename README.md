@@ -8,12 +8,12 @@
 ---
 
 ### About Me
-I build production-ready web platforms and tools that solve high-friction operational bottlenecks. My background pairs formal mathematical foundations (discrete mathematics, linear algebra, computational logic, algorithms) with pragmatic full-stack system architecture and AI-assisted engineering workflows.
+I build production software that solves high-friction operational bottlenecks. My background pairs formal mathematical foundations (discrete mathematics, linear algebra, computational logic, algorithms) with pragmatic full-stack system architecture and AI-assisted engineering workflows.
 
 ### Selected Systems
 - **Go-Erasmus**: All-in-one European student mobility platform in active development. Ingests and normalizes data across 6,600+ institutions in 36 countries, incorporating automated Learning Agreement matching technology.
-- **Alpadia Scan**: Real-time campus attendance and roster reconciliation system deployed in Engelberg, Switzerland. Processed 6,186 scans across 130+ students to track whereabouts across meals, excursions, and activities with zero hardware overhead.
-- **[David Lopez Web](https://github.com/sxlanes/DavidLopezWeb)**: Web platform and digital portfolio built for artist David López with Next.js, TypeScript, and Tailwind CSS.
+- **Alpadia Scan**: Real-time campus attendance and roster reconciliation system deployed in Engelberg, Switzerland. Processed 6,186 scans across 132 students to track whereabouts across meals, excursions, and activities with zero hardware overhead.
+- **[Digital Publishing & Course Platform](https://github.com/sxlanes/DavidLopezWeb)**: Site and digital course delivery built for an independent author: checkout, secure download links, and media streaming with Next.js, TypeScript, and Tailwind CSS.
 
 ### Technical Toolkit
 - **Languages:** TypeScript, JavaScript, Python, SQL, C/C++, HTML5/CSS3
